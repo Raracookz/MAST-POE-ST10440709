@@ -122,7 +122,7 @@ To install the necessary dependencies and run the project locally:
 
 ---
 ### **The app in action !**
-Youtube link:
+Youtube link: https://youtu.be/Pmk96PcKYAM
 
 
 ---
